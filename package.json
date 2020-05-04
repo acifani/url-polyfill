@@ -1,5 +1,5 @@
 {
-  "name": "url-polyfill",
+  "name": "@acifani/url-polyfill",
   "version": "1.1.8",
   "description": "Polyfill URL and URLSearchParams",
   "main": "url-polyfill.js",
@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lifaon74/url-polyfill"
+    "url": "https://github.com/acifani/url-polyfill"
   },
-  "author": "valentin",
+  "author": "acifani",
   "license": "MIT",
   "devDependencies": {
     "http-server": "^0.11.1",
